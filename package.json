@@ -1,0 +1,26 @@
+{
+  "name": "premierleaguetable",
+  "version": "1.0.0",
+  "description": "Technical Assignment for NerdFitness",
+  "main": "index.ts",
+  "scripts": {
+    "run": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abessia/PremierLeagueTable.git"
+  },
+  "author": "Rebecca Wiegel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abessia/PremierLeagueTable/issues"
+  },
+  "homepage": "https://github.com/Abessia/PremierLeagueTable#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
